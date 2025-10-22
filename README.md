@@ -41,8 +41,5 @@ To run the WeatherApp locally, follow these steps:
 ## 📑Resources
 - [OpenWeatherMap documentation](https://openweathermap.org/)
 
-## ✨Credits
-`WeatherApp` is developed and maintained by `Yash`. Weather data is retrieved from the [OpenWeatherMap API](https://openweathermap.org/).
 
-## 📧Contacts
-For any inquiries or feedback, please contact [Here](mailto:its.yash.kumar23@gmail.com).
+
